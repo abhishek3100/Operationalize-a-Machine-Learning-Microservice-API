@@ -1,1 +1,5 @@
 <paste log output from Kubernetes-mediated prediction, here>
+deployment.apps "development" created
+NAME                           READY     STATUS              RESTARTS   AGE
+development-28c4baa54b-l3asc   0/1       ContainerCreating   0          1s
+service "development" exposed
