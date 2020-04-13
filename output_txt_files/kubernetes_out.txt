@@ -1,5 +1,14 @@
 <paste log output from Kubernetes-mediated prediction, here>
 deployment.apps "development" created
 NAME                           READY     STATUS              RESTARTS   AGE
-development-28c4baa54b-l3asc   0/1       ContainerCreating   0          1s
+development-15s6aca3e3-d4hfc   0/1       ContainerCreating   0          1s
 service "development" exposed
+
+#passing make_prediction.sh
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
