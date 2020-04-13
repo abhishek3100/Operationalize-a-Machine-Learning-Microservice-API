@@ -4,11 +4,11 @@
 Project : To operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls.
 
 # Project Tasks
-This project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. In this project we will:
+In this project our goal is to operationalize working of machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. In this project we will:
 
-- Test your project code using linting
+- Test our project code using linting
 - Complete a Dockerfile to containerize this application
-- Deploy your containerized application using Docker and make a prediction
+- Deploy our containerized application using Docker and make a prediction
 - Improve the log statements in the source code for this application
 - Configure Kubernetes and create a Kubernetes cluster
 - Deploy a container using Kubernetes and make a prediction
